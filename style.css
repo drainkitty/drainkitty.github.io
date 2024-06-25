@@ -1,15 +1,16 @@
 body {
  background-image: url('https://i.imgur.com/3delT3F.jpeg'); 
  color: black;
- font-family: Verdana, monospace;
+ font-family: 'Courier New', monospace;
+ font-size:1em;
 }
 
 #main {
-width:50%;
+width:60%;
 margin:auto;
 }
 
-h1, h2, h3 {font-family: Verdana, monospace;
+h1, h2, h3 {font-family: 'Brush Script MT', cursive;
 font-variant:small-caps;
 color:red;
   text-shadow:
@@ -19,9 +20,10 @@ color:red;
     1px -1px 0 #000;}
 h1 {font-size:2.3em;}
 h2 {font-size:1.8em;}
-
+h3 {font-size:1.4em;}
+p {margin:2%}
 .box {
-  background-color: #ffff66;
+  background-color: #faebff;
   border: .1em black solid;
   margin-top:.5%;
   margin-left:auto;
@@ -31,10 +33,10 @@ h2 {font-size:1.8em;}
 }
 
 .box2 {
-  background-color: #ffff66;
+  background-color: #faebff;
   border: .1em black solid;
   margin-top:.5%; 
-  width:48.1%;
+  width:100%;
   margin-left:.3%;
   margin-right:.3%;
   padding:.5%;
