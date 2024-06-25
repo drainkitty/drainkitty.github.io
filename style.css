@@ -2,9 +2,9 @@ body {
  background-image: url('https://i.imgur.com/Punqzyd.jpeg'); 
 }
 .box {
-  background-color: #A52A2A;
+  background-color: #ed0024;
   width:50%;
-  border: .1em #00333d solid;
+  border: .1em black solid;
   margin:auto;
   padding:.5%;
 }
