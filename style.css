@@ -1,3 +1,7 @@
+:root {
+  body {background-color:black;}
+}
+
 .box {
   background-color: #1c9994;
   width:50%;
