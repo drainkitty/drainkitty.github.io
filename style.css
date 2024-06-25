@@ -1,5 +1,5 @@
-body {
-  background-color:black;
+:root {
+  --body-bg-image: url('https://i.imgur.com/Punqzyd.jpeg')
 }
 
 .box {
