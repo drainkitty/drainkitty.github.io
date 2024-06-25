@@ -1,5 +1,5 @@
-:root {
-  --body-bg-color:black;
+body {
+  background-color:black;
 }
 
 .box {
