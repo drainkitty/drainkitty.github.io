@@ -48,5 +48,5 @@ p {margin:2%}
   justify-content: center;
 }
 
-@media screen and (max-width: 480px) {
+@media (max-width: 480px) {
     .box {width:100%;}
