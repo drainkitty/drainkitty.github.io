@@ -49,4 +49,4 @@ p {margin:2%}
 }
 
 @media screen and (max-width: 480px) {
-    #main {width:100%;}
+    .box {width:100%;}
