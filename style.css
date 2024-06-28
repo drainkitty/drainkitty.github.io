@@ -50,6 +50,8 @@ p {margin:2%}
 
 @media (max-width: 480px) {
     .box {width:100%;}
+    .box2 {width:100%;}
  @media (max-width:1280px) {
   .box {width:100%;}
+  .box2 {width:100%;}
  }
