@@ -49,11 +49,18 @@ p {margin:2%}
 }
 
 @media (max-width: 480px) {
- #main {width:100%;}
-    .box {width:100%;}
-    .box2 {width:100%;}
- @media (max-width:1280px) {
+    #main {width:100%;}
+.box2 {width:100% !important;}}
+ @media (max-width:800px) {
   #main {width:100%;}
-  .box {width:100%;}
-  .box2 {width:100%;}
+.box2 {width:100% !important;}
  }
+ @media (max-width:1000px) {
+  #main {width:70% !important;}
+.box2 {width:100% !important;}
+ }
+
+ @media (max-width:1250px) {
+  #main {width:70% !important;}
+ }
+
