@@ -49,7 +49,7 @@ p {margin:2%}
 }
 
 @media (max-width: 480px) {
-    #main {width:100%;}
+    #main {width:100% !important;}
 .box2 {width:100% !important;}}
  @media (max-width:800px) {
   #main {width:100%;}
